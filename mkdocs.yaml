@@ -1,0 +1,8 @@
+site_name: "customer-api-mj"
+site_description: "A service that calls a backend customer service using Flogo - developed by MJ"
+
+nav:
+  - Introduction: README.md
+
+plugins:
+  - techdocs-core
